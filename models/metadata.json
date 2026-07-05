@@ -1,0 +1,13 @@
+{
+    "Project Name": "Employee Attrition Prediction",
+    "Dataset Name": "HR Employee Attrition",
+    "Target Column": "Attrition",
+    "Problem Type": "Classification",
+    "Best Model": "XGBoost",
+    "Accuracy": 0.8775510204081632,
+    "Precision": 0.7894736842105263,
+    "Recall": 0.3191489361702128,
+    "F1 Score": 0.45454545454545453,
+    "ROC AUC": 0.7720733913343096,
+    "Date Created": "2026-07-05 20:56:02"
+}
